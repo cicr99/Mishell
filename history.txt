@@ -1,0 +1,12 @@
+history
+ls
+python a.py&
+fg
+jobs
+history
+ls
+cd src
+ls
+history
+cd ..
+history
